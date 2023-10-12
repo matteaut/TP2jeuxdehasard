@@ -12,7 +12,6 @@ print("À vous de le deviner...")
 
 question = int(input("Entrez votre essai: "))
 essai = 0
-
 quitter = exit()
 
 while rejouer == True:
