@@ -1,6 +1,7 @@
 #cree par Tristan Matteau en 2023
 #tp 2.0
 
+
 import random
 
 nbr_random = random.randint(0, 1000)
