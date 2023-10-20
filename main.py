@@ -27,7 +27,7 @@ while rejouer:
         elif question < nbr_random:
             print("essaie plus grand")
             print("nombre d'essaie: ", essai)
-            question = int(input("Réessaye: "))
+            question = int(input("Réessaye:"))
 
         else:
             print(nbr_random, "Bonne Reponse")
