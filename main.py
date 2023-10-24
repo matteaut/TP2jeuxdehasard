@@ -15,7 +15,6 @@ def programme():
 
         nbr_random = random.randint(nbr_random1, nbr_random2)
 
-
 # debut des questions que le programme va poser.
         print("J’ai choisi un nombre au hasard entre nbr_random1 et nbr_random2.")
         print("À vous de le deviner...")
